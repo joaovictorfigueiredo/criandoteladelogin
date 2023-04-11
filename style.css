@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body form{
+    display: inline-grid;
+    background: #2626fc;
+    width: 400px;
+    height: 300px;
+    color: #fff;
+    font-size: 32px;
+    padding: 44px;
+    border-radius: 11px;
+
+}
+body{
+
+    background-image: url(..//criandoteladelogin/imagens/10075507.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: 
+    ;
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    margin-top: 30vh;
+}
